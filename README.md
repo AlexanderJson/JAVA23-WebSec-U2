@@ -8,7 +8,7 @@
   
 # Frontend Repository
 
-[![Frontend Repository](https://img.shields.io/badge/Frontend-Repository-blue?style=for-the-badge&logo=github)](https://github.com/AlexanderJson/frontend_it_sakerhet)
+[![Frontend Repository](https://img.shields.io/badge/Frontend-Repository-blue?style=for-the-badge&logo=github)]([https://github.com/AlexanderJson/frontend_it_sakerhet](https://github.com/AlexanderJson/JAVA23-WebSec-U2-B))
 
 ---
 
